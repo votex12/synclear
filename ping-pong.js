@@ -9,7 +9,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 
 // the token of your bot - https://discordapp.com/developers/applications/me
-const token = 'NTU2NTAxMTk1NzA4MDM5MTg5.D26ptw.PK6F-NTYawGsaXQdXHZbwXwB55k'; //Replace token with your token
+const token = 'NTU2NTAxMTk1NzA4MDM5MTg5.D26w8g.jhhg26p3az137KDfds_aXtO8yZ0'; //Replace token with your token
 
 // the ready event is vital, it means that your bot will only start reacting to information
 // from Discord _after_ ready is emitted.
