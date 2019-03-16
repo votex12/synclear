@@ -27,4 +27,4 @@ bot.on('message', message => {
 });
 
 // log our bot in
-bot.login(token);
+client.login(process.env.BOT_TOKEN);
