@@ -10,7 +10,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 
 // Token of my bot
-const token = 'MjMxMjk3Mzg3OTU4NzYzNTIw.CtaOnA.eiqE_DIaS2hHW_c-k4jWLHR1Eu8';
+const token = 'NTU2NTAxMTk1NzA4MDM5MTg5.D26ptw.PK6F-NTYawGsaXQdXHZbwXwB55k';
 
 bot.on('ready', () => {
   console.log('ClearMessagesBot is Ready!');
